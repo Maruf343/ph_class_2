@@ -1,0 +1,35 @@
+                 
+p{
+    color: blue;
+}
+.colw{
+    background-color: black;
+    color: aliceblue;
+}
+#ccl{
+    color: chartreuse;
+}
+ul{
+    background-color: aquamarine;
+}
+input[type="password"]{
+    color: red;
+}
+ul{
+    background: url(../download.jpeg);
+    background-repeat: no-repeat;
+}
+.card{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 50%;
+    text-align: justify;
+    padding: 20px;
+}
+div{
+    box-shadow: 5px 10px solid #b84343;
+}
+.card h2{
+    text-align: center;
+    margin: 0px;
+}
